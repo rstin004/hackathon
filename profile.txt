@@ -1,0 +1,3 @@
+Andrew Dearhart 10 adear003@odu.edu M afternoon 2 MAE111 CS150 
+Richard Stinson 5 rstin004@odu.edu W morning 3 MAE303 MAE311 MAE340
+
