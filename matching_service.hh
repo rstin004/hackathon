@@ -1,3 +1,6 @@
+#ifndef MATCHING_SERVICE_HH_INCLUDED
+#define MATCHING_SERVICE_HH_INCLUDED
+
 /*
  *
  */
@@ -10,8 +13,10 @@
 
 using namespace std;
 
-class profile()
+class profile
 {
+public:
+//private:
     string fname,lname;
     int points;
     string email;
@@ -21,10 +26,4 @@ class profile()
     string classes;
 };
 
-int main()
-{
-    ifstream inFile;
-    ofstream outFile;
-
-    return 0;
-}
+#endif // MATCHING_SERVICE_HH_INCLUDED
